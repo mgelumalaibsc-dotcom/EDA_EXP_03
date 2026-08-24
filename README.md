@@ -163,7 +163,7 @@ plt.show()
 
 1)PM2.5 and NO₂ show a strong positive correlation, suggesting that both pollutants increase together, likely due to vehicle and industrial emissions.
 
-2)  # write other insights
+
 
 **Result**
 
